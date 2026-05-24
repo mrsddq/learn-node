@@ -19,15 +19,18 @@ npm install
 npm start
 ```
 
+`npm start` runs the most complete contact-list lesson under `4MyFirstExpressAppContinued/12DeletingAContact/`.
+
 ## Status
 
 Baseline repository structure is complete:
 
 - lesson folders
 - package metadata
+- generated `node_modules/` removed from Git tracking
 - root README
 - root `.gitignore`
 
 ## Maintenance Note
 
-The repository currently tracks `node_modules/`. Future cleanup should remove generated dependencies from Git history if this project becomes production-facing.
+Keep this repo archived. If a Node project from this archive becomes portfolio-facing, extract it into a clean repo with only source, lockfiles, tests, and docs.
