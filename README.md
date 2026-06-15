@@ -34,3 +34,5 @@ Baseline repository structure is complete:
 ## Maintenance Note
 
 Keep this repo archived. If a Node project from this archive becomes portfolio-facing, extract it into a clean repo with only source, lockfiles, tests, and docs.
+
+Use [docs/LESSON_INDEX.md](docs/LESSON_INDEX.md) to find the strongest lesson folders before extracting anything.
