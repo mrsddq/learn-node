@@ -1,4 +1,4 @@
-# Learn Node
+# Node Express Learning Archive
 
 A Node.js learning archive containing lessons and small Express applications.
 
